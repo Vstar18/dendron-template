@@ -17,3 +17,17 @@ created: 1708222522373
     - 函数式编程
     - 腾讯课堂 1节
     - studio 计划& 本周内容完成
+
+
+- 需要详细了解的内容
+
+    - eslint
+    - prettier
+    - unocss
+    - vite
+    - tsconfig.json
+    - 模块
+    - 为什么配置文件可以有很多类型
+    - pinia
+    - vue-router
+        - hash history
