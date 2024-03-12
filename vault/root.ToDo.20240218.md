@@ -6,23 +6,18 @@ updated: 1708240128740
 created: 1708222522373
 ---
 
+2024/03/04 - 2023/03/10 To Dos
+
 - 读书
     - 《全球通史》- 上册 本周完成
-
+    - 
 - 经济
-
-- 前端
-    - 活动bug& 动效 ✅
-    - 小程序不同平台不同内容打包架构
-    - 函数式编程
-    - 腾讯课堂 1节
-    - studio 计划& 本周内容完成
 
 
 - 需要详细了解的内容
-
-    - eslint
-    - prettier
+    - babel
+    - eslint ✅
+    - prettier ✅
     - unocss
     - vite
     - tsconfig.json
@@ -31,3 +26,17 @@ created: 1708222522373
     - pinia
     - vue-router
         - hash history
+
+
+- vue3 uniapp 组件库
+
+
+-----------
+
+- 读书 - 想读的书
+
+- 《程序员修炼之道》
+- 《七周七语言》
+- 《MongDB权威指南》
+- 《Docker入门到实战》
+- 《》
